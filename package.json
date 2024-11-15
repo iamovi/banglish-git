@@ -1,0 +1,19 @@
+{
+  "name": "banglish-git",
+  "version": "1.0.0",
+  "description": "A fun Git CLI alternative with Banglish-inspired command names",
+  "main": "bin/gg.js",
+  "bin": {
+    "gg": "./bin/gg.js"
+  },
+  "scripts": {
+    "start": "node bin/gg.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["git", "cli", "banglish", "banglish-git", "gg-cli"],
+  "author": "Maruf Ovi",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
