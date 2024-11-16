@@ -1,6 +1,6 @@
 {
   "name": "banglish-git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fun Git CLI alternative with Banglish-inspired command names",
   "main": "bin/gg.js",
   "bin": {
